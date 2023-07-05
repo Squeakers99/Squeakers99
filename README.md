@@ -52,3 +52,12 @@ I am a Student in my Grade 12 Year of High School at St. Augustine CHS
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+<!----------->
+<!-- Stats -->
+<!----------->
+
+### My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=squeakers99&theme=dark&border_radius=10)](https://git.io/streak-stats)
