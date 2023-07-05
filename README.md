@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/soheil.rajabali/">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=squeakers99&style=flat-square&color=blue" alt=""/>
