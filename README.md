@@ -18,3 +18,15 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+----
+
+<!-------------->
+<!-- About Me -->
+<!-------------->
+
+### About Me :
+I am a Student in my Grade 12 Year of High School at St. Augustine CHS
+- I am an aspiring engineer who enjoys programming
+- I am on various technological teams within my school
+- In my free time, I enjoy tinkering with arduinos
